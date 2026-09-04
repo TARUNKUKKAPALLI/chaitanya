@@ -1,0 +1,19 @@
+# Java / Maven
+01_Backend/target/
+01_Backend/data/
+
+# Frontend
+02_Frontend/node_modules/
+02_Frontend/dist/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and OS files
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
